@@ -1,6 +1,7 @@
 # TwitterAnalysisforHashtag-canadaday-using-Tableau
 
 Using the twitter hashtag data and do the visualizations and provide description of the results. Hashtag Used: #canadaday
+[Tableau Dashboard](https://public.tableau.com/profile/meghana4905#!/vizhome/TwitterAnalysisforHashtag-canadaday-using-Tableau/TweetsRetweets)
 
 Scenario 1: The number of Tweets and Retweets for the hashtag on an hourly basis
 
